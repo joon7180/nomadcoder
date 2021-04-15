@@ -1,6 +1,6 @@
-.form, .greeting{
+.formdata, .name{
     display: none;
 }
-.showing{
+.show{
     display: block;
 }
